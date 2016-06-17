@@ -1,4 +1,5 @@
-===DNT Test Package
+##DNT Test Package
+This is a DNT test package
 
 ##Installation
  `npm install dnt-test-package`
